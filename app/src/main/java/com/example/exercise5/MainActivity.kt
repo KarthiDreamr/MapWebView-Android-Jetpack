@@ -60,7 +60,7 @@ fun BingMap() {
                             credentials: 'Agk8_TlNOjusAEKMyoAJ6sW2CoNtPLpbYjZM_xo5AMbGIp0J1RbmW8kKsoplzUvg',
                             showLocateMeButton: true
                         });
-                        map.setView({ center: new Microsoft.Maps.Location(11.074800, 77.002100), zoom: 18 });
+                        map.setView({ center: new Microsoft.Maps.Location(11.0778, 76.9897), zoom: 17 });
                     }
                     </script>
                 </head>
